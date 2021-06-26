@@ -2,7 +2,7 @@
  Prisoners problem algorithm to figure out last alive prisoner when prisoner's are killed after every fixed count.
 
 ## Explanation:
-Suppose there's 5 prisoners, you kill the prisoner at third position and you continue this until single prisoner is alive. 
+Suppose there's 5 prisoners, you kill the prisoner at third position and you continue this until single prisoner is alive. <br/>
 Note: After killing the prisoner at third position, you cannot start from the first instead you have to continue from fourth prisoner and kill the third prisoner from that position.
 
 **Demonstration:** <br/>
